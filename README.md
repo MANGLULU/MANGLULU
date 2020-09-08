@@ -1,16 +1,13 @@
-### Hi there 👋
+###个人简介：
 
-<!--
-**MANGLULU/MANGLULU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 姓名：邓发连
 
-Here are some ideas to get you started:
+- 学校：广东工业大学
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 专业：网络工程
+
+- 联系方式：2695934442@qq.com
+
+- 学习方向：Java后台开发
+
+- 兴趣爱好：听歌、看小说、打篮球
